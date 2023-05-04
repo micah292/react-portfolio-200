@@ -1,5 +1,5 @@
 import React from 'react'
-import "./ testominial.css"
+import "./testominial.css"
 
 const Testominial = () => {
   return (
